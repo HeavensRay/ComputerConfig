@@ -1,9 +1,0 @@
-INSERT INTO Comments (Id, BaseId, Username, Writing, CreatedOn)
-VALUES
-    (1, 1, 'Admini', 'Very cool cpu', '2026-02-04 16:52:27.7294389'),
-    (2, 1, 'Admini', 'A cpu indeeed', '2026-02-04 17:02:05.1144049'),
-    (4, 1, 'standardUser', 'Hii admin~', '2026-02-04 17:10:25.3075919'),
-    (5, 1, 'mike', 'guys im poor', '2026-02-04 17:57:00.0284240'),
-    (6, 1, 'mike', 'guys im poor', '2026-02-04 17:57:19.4467213'),
-    (7, 2, 'mike', 'guys im poor', '2026-02-04 17:57:29.8942158');
-

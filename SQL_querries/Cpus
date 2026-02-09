@@ -1,7 +1,0 @@
-INSERT INTO CPUs (Id, Model, Power, Cores)
-VALUES
-    (1, 'Ryzen 5 9600x', 2000, 6),
-    (8, 'Ryzen 7600x', 1400, 6),
-    (9, 'Ryzen 9 9900x3d', 2200, 12),
-    (10, 'Ryzen 5 5600x', 1200, 6);
-

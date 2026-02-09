@@ -1,7 +1,0 @@
-INSERT INTO SSDs (Id, Brand, Model, SPD, Capacity)
-VALUES
-    (6, 'Samsung', '990 Evo', 6000, 1000),
-    (23, 'Corsair', 'T440', 5400, 500),
-    (24, 'Corsair', 'M16', 5400, 1000),
-    (25, 'Samsung', '990 Pro', 6400, 2000);
-

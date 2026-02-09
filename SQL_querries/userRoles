@@ -1,6 +1,0 @@
-INSERT INTO AspNetUserRoles (UserId, RoleId)
-VALUES
-    ('59f2ff1e-6dbd-4669-8b76-160f7e3aba96', '4f3f4e94-b032-4ccb-9741-2d1d59b41ebf'),
-    ('eff6b49b-d34a-4a2e-a369-294ee9fe062c', '4f3f4e94-b032-4ccb-9741-2d1d59b41ebf'),
-    ('8e65d5c8-62ea-43ad-b0b8-378877066a34', 'e4d208ff-1331-4008-9193-30070f9a864e');
-

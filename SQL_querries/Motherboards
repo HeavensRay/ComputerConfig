@@ -1,7 +1,0 @@
-INSERT INTO Motherboards (Id, Model, Chip, Rating)
-VALUES
-    (3, 'Asrock Hdv/m2', 'B650', 'A'),
-    (14, 'Asus Tuf Gaming', 'X870', 'S'),
-    (15, 'Msi', 870, 'S'),
-    (16, 'Asrock', 'A620', 'B');
-

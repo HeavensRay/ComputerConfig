@@ -1,6 +1,0 @@
-INSERT INTO AspNetUsers (Id, UserName, NormalizedUserName, Email, NormalizedEmail, EmailConfirmed, PasswordHash, SecurityStamp, ConcurrencyStamp, PhoneNumber, PhoneNumberConfirmed, TwoFactorEnabled, LockoutEnd, LockoutEnabled, AccessFailedCount)
-VALUES
-    ('59f2ff1e-6dbd-4669-8b76-160f7e3aba96', 'mike', 'MIKE', NULL, NULL, 0, 'AQAAAAIAAYagAAAAEPEZ09555Qvw4TWm7NLNu43+TT77CoOt2szcQx3MC9x5E00bXz2gAvZ1kfLHeUnoMw==', 'PIMWBH2HPMPRAGU4G2SICNIXKVFBRK33', 'a9d491f4-391a-4a72-a079-9a8522cd901e', NULL, 0, 0, NULL, 0, 0),
-    ('8e65d5c8-62ea-43ad-b0b8-378877066a34', 'Admini', 'ADMINI', NULL, NULL, 0, 'AQAAAAIAAYagAAAAEHfE3wpZINB20JEQjrai7cj1spK3qvF/uTOi7rhliKBSJjMAZTVYdAdp8nxmaNK7DA==', 'XNY26NZIGICSGQ2MZTS4N42IWFAC4UZJ', '6c12875e-6e9d-43df-826c-e37351a5b9f6', NULL, 0, 0, NULL, 0, 0),
-    ('eff6b49b-d34a-4a2e-a369-294ee9fe062c', 'standardUser', 'STANDARDUSER', NULL, NULL, 0, 'AQAAAAIAAYagAAAAEP56jBhmAZRs0slK9NC99qedl4PUvbfwoIXEt3vKPssMLlJosn++/ZDtRUfeDdRaxw==', 'KME5LIPB5TXYPWOW6K6QADTZFQE7TTV5', '05171653-35f3-43ba-8d56-eddf7881ee41', NULL, 0, 0, NULL, 0, 0);
-

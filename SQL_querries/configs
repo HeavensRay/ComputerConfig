@@ -1,8 +1,0 @@
-INSERT INTO Configurations (ConfigName, Username, Purpose, SsdId, CpuId, GpuId, MoboId, PcuId, RamId, Price)
-VALUES
-    ('a config', 'Admini', 1440, 24, 10, 7, 16, 19, 5, 1930.00),
-    ('beast', 'Admini', 1440, 6, 1, 2, 3, 4, 5, 2720.00),
-    ('cpuuuu', 'Admini', 2160, 25, 1, 11, 3, 17, 5, 3300.00),
-    ('moneyRain', 'Admini', 2160, 25, 1, 11, 3, 17, 5, 3300.00),
-    ('very expencive', 'Admini', 2160, 24, 1, 11, 3, 17, 5, 3300.00);
-

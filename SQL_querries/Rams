@@ -1,6 +1,0 @@
-INSERT INTO Rams (Id, Model, Gigabytes, Speed)
-VALUES
-    (5, 'Patriot Viper', 32, 0),
-    (21, 'Kingston Fury', 32, 0),
-    (22, 'Kingston Fury', 16, 0);
-
