@@ -1,0 +1,8 @@
+INSERT INTO GPUs (Id, Brand, Model, Power, Volts)
+VALUES
+    (2, 'Powercolor Hellhound', '9070xt', 2200, 850),
+    (7, 'Powercolor Hellhound', '7800x', 1600, 750),
+    (11, 'Sapphire Nitro+', '7900XTX', 2400, 1000),
+    (12, 'Asus', 7600, 1300, 500),
+    (13, 'Gigabyte gaming', '9060xt', 1500, 500);
+

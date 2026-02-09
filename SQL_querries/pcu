@@ -1,0 +1,7 @@
+INSERT INTO Pcu (Id, Model, Volts, Rating)
+VALUES
+    (4, 'Corsair Vengeance', 850, 'A'),
+    (17, 'Corsair Rm-X', 1000, 'A'),
+    (18, 'XFX', 500, 'B'),
+    (19, 'XFX', 750, 'B');
+

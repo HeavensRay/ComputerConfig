@@ -1,0 +1,5 @@
+INSERT INTO AspNetRoles (Id, Name, NormalizedName, ConcurrencyStamp)
+VALUES
+    ('4f3f4e94-b032-4ccb-9741-2d1d59b41ebf', 'User', 'USER', NULL),
+    ('e4d208ff-1331-4008-9193-30070f9a864e', 'Admin', 'ADMIN', NULL);
+
